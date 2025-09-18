@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/SUDHITHA4225/leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/SUDHITHA4225/leetcode/tree/master/0050-powx-n) |
+| [1289-day-of-the-week](https://github.com/SUDHITHA4225/leetcode/tree/master/1289-day-of-the-week) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SUDHITHA4225/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2650-split-with-minimum-sum](https://github.com/SUDHITHA4225/leetcode/tree/master/2650-split-with-minimum-sum) |
 ## Greedy
