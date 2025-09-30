@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/SUDHITHA4225/leetcode/tree/master/0066-plus-one) |
 | [1289-day-of-the-week](https://github.com/SUDHITHA4225/leetcode/tree/master/1289-day-of-the-week) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SUDHITHA4225/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/SUDHITHA4225/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2650-split-with-minimum-sum](https://github.com/SUDHITHA4225/leetcode/tree/master/2650-split-with-minimum-sum) |
 ## Greedy
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/SUDHITHA4225/leetcode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/SUDHITHA4225/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/SUDHITHA4225/leetcode/tree/master/0066-plus-one) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/SUDHITHA4225/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -71,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SUDHITHA4225/leetcode/tree/master/0053-maximum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/SUDHITHA4225/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/SUDHITHA4225/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
