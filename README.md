@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SUDHITHA4225/leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/SUDHITHA4225/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/SUDHITHA4225/leetcode/tree/master/0056-merge-intervals) |
 | [2650-split-with-minimum-sum](https://github.com/SUDHITHA4225/leetcode/tree/master/2650-split-with-minimum-sum) |
 ## Linked List
@@ -44,17 +45,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/SUDHITHA4225/leetcode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/SUDHITHA4225/leetcode/tree/master/0049-group-anagrams) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/SUDHITHA4225/leetcode/tree/master/0013-roman-to-integer) |
 | [0038-count-and-say](https://github.com/SUDHITHA4225/leetcode/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/SUDHITHA4225/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/SUDHITHA4225/leetcode/tree/master/0058-length-of-last-word) |
 ## Array
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SUDHITHA4225/leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/SUDHITHA4225/leetcode/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/SUDHITHA4225/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/SUDHITHA4225/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/SUDHITHA4225/leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/SUDHITHA4225/leetcode/tree/master/0066-plus-one) |
