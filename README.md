@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/SUDHITHA4225/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/SUDHITHA4225/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/SUDHITHA4225/leetcode/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/SUDHITHA4225/leetcode/tree/master/0089-gray-code) |
 | [1289-day-of-the-week](https://github.com/SUDHITHA4225/leetcode/tree/master/1289-day-of-the-week) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SUDHITHA4225/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/SUDHITHA4225/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -91,4 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/SUDHITHA4225/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/SUDHITHA4225/leetcode/tree/master/0089-gray-code) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/SUDHITHA4225/leetcode/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
