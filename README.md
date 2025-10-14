@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/SUDHITHA4225/leetcode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/SUDHITHA4225/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/SUDHITHA4225/leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/SUDHITHA4225/leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/SUDHITHA4225/leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/SUDHITHA4225/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/SUDHITHA4225/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/SUDHITHA4225/leetcode/tree/master/0054-spiral-matrix) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/SUDHITHA4225/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Combinatorics
 |  |
@@ -105,5 +107,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/SUDHITHA4225/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/SUDHITHA4225/leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
