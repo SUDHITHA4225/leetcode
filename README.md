@@ -109,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/SUDHITHA4225/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/SUDHITHA4225/leetcode/tree/master/0074-search-a-2d-matrix) |
+## Database
+|  |
+| ------- |
+| [0577-employee-bonus](https://github.com/SUDHITHA4225/leetcode/tree/master/0577-employee-bonus) |
 <!---LeetCode Topics End-->
