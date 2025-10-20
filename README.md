@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/SUDHITHA4225/leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/SUDHITHA4225/leetcode/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SUDHITHA4225/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0908-middle-of-the-linked-list](https://github.com/SUDHITHA4225/leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/SUDHITHA4225/leetcode/tree/master/0013-roman-to-integer) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SUDHITHA4225/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/SUDHITHA4225/leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/SUDHITHA4225/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/SUDHITHA4225/leetcode/tree/master/0058-length-of-last-word) |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0577-employee-bonus](https://github.com/SUDHITHA4225/leetcode/tree/master/0577-employee-bonus) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SUDHITHA4225/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
