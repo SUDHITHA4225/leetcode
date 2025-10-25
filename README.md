@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/SUDHITHA4225/leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/SUDHITHA4225/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/SUDHITHA4225/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0136-single-number](https://github.com/SUDHITHA4225/leetcode/tree/master/0136-single-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/SUDHITHA4225/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Binary Search
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/SUDHITHA4225/leetcode/tree/master/0089-gray-code) |
+| [0136-single-number](https://github.com/SUDHITHA4225/leetcode/tree/master/0136-single-number) |
 ## Matrix
 |  |
 | ------- |
