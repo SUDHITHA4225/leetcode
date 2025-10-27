@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/SUDHITHA4225/leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/SUDHITHA4225/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/SUDHITHA4225/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/SUDHITHA4225/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/SUDHITHA4225/leetcode/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/SUDHITHA4225/leetcode/tree/master/0089-gray-code) |
 | [1289-day-of-the-week](https://github.com/SUDHITHA4225/leetcode/tree/master/1289-day-of-the-week) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/SUDHITHA4225/leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/SUDHITHA4225/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/SUDHITHA4225/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/SUDHITHA4225/leetcode/tree/master/0067-add-binary) |
 ## Array
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/SUDHITHA4225/leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/SUDHITHA4225/leetcode/tree/master/0067-add-binary) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/SUDHITHA4225/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Combinatorics
 |  |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SUDHITHA4225/leetcode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/SUDHITHA4225/leetcode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/SUDHITHA4225/leetcode/tree/master/0136-single-number) |
 ## Matrix
